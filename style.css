@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+.hero{
+    background-color: #414833;
+    color: #C2C5AA;
+    height: 100vh;
+    display: flex;
+    font-family: "MedievalSharp", cursive;
+}
+.korobka{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 0px;
+    padding: 0 50px;
+    width: 50%;
+}
+h1{
+    line-height: 200px;
+    margin: 120px 0;
+    font-size: 9rem;
+}
+h2{
+    font-size: 2rem;
+    margin: -20;
+    font-weight: 400;
+}
+h3{
+    font-size: 2rem;
+    margin: -20;
+    font-weight: 400;
+}
+
+.photo{
+    width: 50%;
+    rotate: 5deg;
+    padding: 50px;
+    width: 300px; 
+    height: 400px;
+    margin: -1500px; 
+    border: 2px solid #C2C5AA; 
+    border-radius: 200px;
+}
+.prizrak{
+    z-index: 5;
+    top: 500px;
+    right:300px;
+   position: absolute;
+   width: 1px;
+   height: 1px;
+   background-color: white;
+    box-shadow: 0 0 300px 100px white;
+}
+
+.about_section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.korobka1 {
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 0px;
+    width: 50%;
+    background-color: #414833;
+}
+
+.h {
+    font-family: 'Abril Fatface', sans-serif;
+    font-size: 4589px;
+    margin-bottom: 20px;
+}
+
+.p {
+    font-family: 'Short Stack', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 100px;
+    font-weight: 450px;
+}
+
+.l {
+    font-family: 'Short Stack', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+.img {
+    width: 50%;
+    rotate: 5deg;
+    padding: 50px;
+    width: 250px; 
+    height: 400px;
+    margin: 50px; 
+    border: 2px solid #C2C5AA; 
+    border-radius: 200px;
+    display: flex;
+}
+.korobka2 {
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 10px;
+    width: 100%;
+    background-color: #414833;
+}
+.emp3{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 50px;
+    width: 50%;
+    white-space: nowrap;
+}
+.emp4{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.hero1{
+    background-color: #414833;
+    color: #C2C5AA;
+    height: 100vh;
+    display: flex;
+    font-family: "MedievalSharp", cursive;
+    align-items: center;
+    font: size 7800rem;
+}
+h1
+{
+    line-height: 120px;
+    margin: 50px 0;
+    font-size: 9rem;
+}
